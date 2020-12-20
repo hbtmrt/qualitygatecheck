@@ -9,7 +9,7 @@ namespace ConsoleApp1
 		{
 			Console.WriteLine("starting...");
 			Thread.Sleep(2000);
-			Console.WriteLine("ending...");
+			Console.WriteL
 			Thread.Sleep(1000);
 		}
 	}
